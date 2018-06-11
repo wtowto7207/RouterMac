@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "RouterMac"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "A short description of RouterMac."
   s.homepage     = "https://github.com/wtowto7207"
   s.license      = "MIT"
