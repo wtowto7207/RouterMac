@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author       = { "wtowto7207" => "wtowto7207@163.com" }
   s.platform = :ios
   s.ios.deployment_target = "8.0"
-  s.require_arc = true
+  s.requires_arc = true
   s.source       = { :git => "https://github.com/wtowto7207/RouterMac.git", :tag => "#{s.version}" }
   s.resource = 'Source/**/*.xib'
   s.source_files  = "Source/*.{h,m,mm}"
